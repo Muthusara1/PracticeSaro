@@ -4,4 +4,8 @@ three
 four
 five
 six
+<<<<<<< HEAD
 seven
+=======
+eight
+>>>>>>> five
